@@ -1,0 +1,6 @@
+{
+  "name": "Studio de Automação de Artes e Comunicados",
+  "description": "Ferramenta para cadastrar modelos visuais de comunicados e gerar novas artes instantaneamente via formulário dinâmico, com histórico, fila de solicitações e automações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
